@@ -1,5 +1,5 @@
 import 'app/ui/global.css';
-import { fustat } from 'app/ui/font';
+import { fustat } from '@/app/ui/fonts';
 
 export default function RootLayout({
   children,

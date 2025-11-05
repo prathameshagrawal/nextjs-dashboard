@@ -1,5 +1,5 @@
 import { GlobeAltIcon } from '@heroicons/react/24/outline';
-import { ebGaramond } from '@/app/ui/font';
+import { ebGaramond } from '@/app/ui/fonts';
 
 export default function AcmeLogo() {
   return (
